@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "wassimz",
+      "description": "zouaoui",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "An other stream",
+      "id": 2
+    },
+    {
+      "title": "other ",
+      "description": "an other one",
+      "id": 3
+    },
+    {
+      "title": "edited stream",
+      "description": "my new stream that i create",
+      "id": 4
+    },
+    {
+      "title": "new stream unexpected",
+      "description": "didint exper",
+      "id": 5
+    }
+  ]
+}
